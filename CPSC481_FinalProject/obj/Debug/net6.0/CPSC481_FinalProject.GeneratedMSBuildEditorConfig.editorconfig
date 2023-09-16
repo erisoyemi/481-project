@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = CPSC481_FinalProject
+build_property.RootNamespace = CPSC481_FinalProject
+build_property.ProjectDir = c:\Users\eriso\Desktop\School\3rd\481 project\CPSC481_FinalProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\eriso\Desktop\School\3rd\481 project\CPSC481_FinalProject
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Pages/AdvancedPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2YW5jZWRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Pages/Example.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbXBsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Pages/GuidedPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3VpZGVkUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Pages/GuidedPage2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3VpZGVkUGFnZTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Pages/GuidedPage3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3VpZGVkUGFnZTMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/CourseTimes.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvdXJzZVRpbWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/EnrollmentPopup.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVucm9sbG1lbnRQb3B1cC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/GuidedCourseAccordian1.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEd1aWRlZENvdXJzZUFjY29yZGlhbjEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/GuidedSearchSidebar1.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEd1aWRlZFNlYXJjaFNpZGViYXIxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/GuidedSearchSidebar2.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEd1aWRlZFNlYXJjaFNpZGViYXIyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/SearchSidebar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlYXJjaFNpZGViYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/CollapseSidebar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbGxhcHNlU2lkZWJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-wnoi559zzd
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/CourseAccordian.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvdXJzZUFjY29yZGlhbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-dhfas3e4kg
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/GuidedScheduleMain2.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEd1aWRlZFNjaGVkdWxlTWFpbjIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-830nn4z8tc
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/GuidedScheduleMain3.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEd1aWRlZFNjaGVkdWxlTWFpbjMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-pqps4plgs7
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/HeaderBar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlYWRlckJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-9ig4akoi0u
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-pch2e843s7
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vtr4xxy9k8
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/RecommendedSidebar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlY29tbWVuZGVkU2lkZWJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-2644iip7qf
+
+[c:/Users/eriso/Desktop/School/3rd/481 project/CPSC481_FinalProject/Shared/ScheduleMain.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNjaGVkdWxlTWFpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-gw9nzmsa81

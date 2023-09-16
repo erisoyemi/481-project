@@ -1,0 +1,135 @@
+{
+  "__Version": 2,
+  "SerializedFilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\obj\\Debug\\net6.0\\project.razor.vscode.json",
+  "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\CPSC481_FinalProject.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0"
+  },
+  "ProjectWorkspaceState": {
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "CPSC481_FinalProject",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Pages\\AdvancedPage.razor",
+      "TargetPath": "Pages\\AdvancedPage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Pages\\Example.razor",
+      "TargetPath": "Pages\\Example.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Pages\\GuidedPage.razor",
+      "TargetPath": "Pages\\GuidedPage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Pages\\GuidedPage2.razor",
+      "TargetPath": "Pages\\GuidedPage2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Pages\\GuidedPage3.razor",
+      "TargetPath": "Pages\\GuidedPage3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\CourseTimes.razor",
+      "TargetPath": "Shared\\CourseTimes.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\EnrollmentPopup.razor",
+      "TargetPath": "Shared\\EnrollmentPopup.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\GuidedCourseAccordian1.razor",
+      "TargetPath": "Shared\\GuidedCourseAccordian1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\GuidedSearchSidebar1.razor",
+      "TargetPath": "Shared\\GuidedSearchSidebar1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\GuidedSearchSidebar2.razor",
+      "TargetPath": "Shared\\GuidedSearchSidebar2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\HomePage.razor",
+      "TargetPath": "Shared\\HomePage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\SearchSidebar.razor",
+      "TargetPath": "Shared\\SearchSidebar.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\CollapseSidebar.razor",
+      "TargetPath": "Shared\\CollapseSidebar.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\CourseAccordian.razor",
+      "TargetPath": "Shared\\CourseAccordian.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\GuidedScheduleMain2.razor",
+      "TargetPath": "Shared\\GuidedScheduleMain2.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\GuidedScheduleMain3.razor",
+      "TargetPath": "Shared\\GuidedScheduleMain3.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\HeaderBar.razor",
+      "TargetPath": "Shared\\HeaderBar.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\RecommendedSidebar.razor",
+      "TargetPath": "Shared\\RecommendedSidebar.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eriso\\Desktop\\School\\3rd\\481 project\\CPSC481_FinalProject\\CPSC481_FinalProject\\Shared\\ScheduleMain.razor",
+      "TargetPath": "Shared\\ScheduleMain.razor",
+      "FileKind": "component"
+    }
+  ]
+}
